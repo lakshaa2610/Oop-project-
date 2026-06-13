@@ -1,2 +1,3 @@
 # Oop-project-
 Java-based application for managing and visualizing patient medical history using Object-Oriented Programming principles.
+Patient Medical History Visualization is a Java-based mini project developed to efficiently store, manage, and visualize patients' medical records. Built using core Object-Oriented Programming concepts such as classes, objects, encapsulation, inheritance, and polymorphism, the system maintains structured patient information and health records. It provides simple visual representations of health trends, including blood pressure and sugar levels, through text-based charts. This project demonstrates the practical application of OOP concepts in healthcare data management, enabling better analysis and monitoring of patient health history.
